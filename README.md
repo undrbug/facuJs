@@ -1,2 +1,2 @@
 # facuJs
-todos los ejercicios de js 
+variete del primer cuatri
